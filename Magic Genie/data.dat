@@ -1,0 +1,13 @@
+Q:Is it black?
+Q:Is it round?
+O:Tyre
+O:Phone
+Q:Is it electronic?
+O:A computer
+Q:Does it have more than 4 legs?
+O:Spider
+Q:Does it have a mane?
+Q:Does it have stripes?
+O:Tiger
+O:Lion
+O:Pangolin
